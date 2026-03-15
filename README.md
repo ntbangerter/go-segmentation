@@ -29,4 +29,4 @@ Grid overlay:
 
 Output images from each of those steps are stored in `./out/` by `main.py`.
 
-Logic is still very particular to my particular board, background image, camera, etc. I'll work on generalizing the logic in the near future. Next step is adding logic for checking stone placement at grid vertices.
+Logic is still specific to my particular board, background image, camera, etc. I'll work on generalization in the near future. Next step is adding logic for checking stone placement at grid vertices.
