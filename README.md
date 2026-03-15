@@ -11,15 +11,19 @@ Current pipeline tries to:
 3. identify the 19x19 grid lines
 
 Original image:
+
 <img src="./images/test1.jpg" alt="original image" width="400"/>
 
 Board segmentation:
+
 <img src="./out/test1_original.jpg" alt="board segmentation" width="400"/>
 
 Transformed board:
+
 <img src="./out/test1_warped.jpg" alt="transformed board" width="400"/>
 
 Grid overlay:
+
 <img src="./out/test1_grid.jpg" alt="grid overlay" width="400"/>
 
 
